@@ -11,7 +11,7 @@ Hello! I'm a 4<sup>th</sup> year student at the University of Toronto studying a
 <br />
 <p align=center>
    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=tokibun&show_icons=true&theme=highcontrast"> &nbsp;
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokibun&langs_count=8&layout=compact&theme=highcontrast" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokibun&langs_count=7&layout=compact&theme=highcontrast" />
 </p>
 <!--
 **Tokibun/Tokibun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
