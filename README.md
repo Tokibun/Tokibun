@@ -1,6 +1,8 @@
 <!-- ### Hi there 👋 -->
 
 # [![Michelle Header](https://raw.githubusercontent.com/Tokibun/Tokibun/main/assets/name_banner.png)](https://tokibun.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mkee/)
+
 Hello! I'm a 4<sup>th</sup> year student at the University of Toronto studying a specialist in Computer Science, Software Engineering stream. I have a passion for exploring and learning new things in the realm of computer science. I also like to play video games 👾, play the piano 🎹, and think about ways I can waste my money on a new mechanical keybaord build ⌨️ in my free time. 
 
 ### Experience
