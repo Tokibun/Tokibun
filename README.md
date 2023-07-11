@@ -1,4 +1,4 @@
-# &nbsp; &nbsp; Hey, I'm Michelle! <img src="https://user-images.githubusercontent.com/45515347/134095452-8c8fc2b6-4c33-445a-bea9-ea86d7599681.gif" width=130px align=left>
+# &nbsp; &nbsp; Hey, I'm Michelle! <img src="https://user-images.githubusercontent.com/45515347/134095452-8c8fc2b6-4c33-445a-bea9-ea86d7599681.gif" width=110px align=left>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mkee/)
 <br/><br/>
 
